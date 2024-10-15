@@ -2,7 +2,7 @@
 A MATLAB script to analyze Imaris Filament object tortuosity
 
 
-The script uses `[ImarisReader](https://github.com/PeterBeemiller/ImarisReader.git)`, a set of MATLAB classes to read image and  segmentation object data stored in Imaris .ims files. 
+The script uses [ImarisReader](https://github.com/PeterBeemiller/ImarisReader.git), a set of MATLAB classes to read image and  segmentation object data stored in Imaris .ims files. 
 *Work in progress; tested in MATLAB R2022b using an .ims file segmented in Imaris 10.2.*
 
 The individual steps are as follows:
